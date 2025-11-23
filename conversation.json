@@ -1,0 +1,10 @@
+﻿[
+  { "speaker": "犯人", "text": "もしもし、◯◯銀行のセキュリティ担当です。緊急でお伝えがあります。", "severity": "pushy", "rise": 3, "importance": 4 },
+  { "speaker": "受信者", "text": "え、銀行ですか？どうして私に？", "severity": "calm", "rise": 2, "importance": 2 },
+  { "speaker": "犯人", "text": "あなたの口座が不正アクセスされています。直ちに確認が必要です。", "severity": "pushy", "rise": 4, "importance": 4 },
+  { "speaker": "犯人", "text": "今すぐワンタイムパスワードを教えないと全額凍結になります。", "severity": "threat", "rise": 5, "importance": 5 },
+  { "speaker": "受信者", "text": "そんな、困ります…どうしたらいいんですか。", "severity": "calm", "rise": 2, "importance": 2 },
+  { "speaker": "犯人", "text": "落ち着いてください。こちらは味方です。指示に従えば安全です。", "severity": "calm", "rise": 3, "importance": 3 },
+  { "speaker": "犯人", "text": "時間がありません。今ここで番号を読み上げてください。", "severity": "threat", "rise": 4, "importance": 4 },
+  { "speaker": "受信者", "text": "わ、わかりました…", "severity": "pushy", "rise": 2, "importance": 2 }
+]
